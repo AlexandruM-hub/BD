@@ -1,0 +1,110 @@
+header{
+   background-color: rgba(40, 166, 249, 0.38);
+  display: block;
+  min-height: 70px;
+  border-radius: 10px;
+}
+
+.MenuElements {
+  float:right;
+  display: block;
+  margin-right: 30px;
+  margin-top: 22px;
+  font-size: 125%
+}
+
+.Emblema{
+  float:left;
+  margin: 0 auto;
+}
+
+.TxtHome{
+  color: black;
+  text-decoration: none;
+  font-style: oblique;
+}
+
+.ImgEmblema{
+  margin: 10px;
+  width: 50px;
+  height: 50px;
+}
+.Denumire{
+  font-weight: bold;
+  font-size: 200%;
+  padding-top: 16px;
+  float: left;
+}
+
+.HomeButton{
+  text-decoration: none;
+  color: black;
+  margin-right: 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+
+.MenuElements, Denumire, LeftEmblema  a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover{
+  font-size: 105%;
+}
+
+body{
+  background-color: rgba(112, 181, 206, 0.48);
+
+}
+
+h1{
+  text-align: center;
+  border-width: 0;
+}
+
+.Articol{
+  float:left;
+}
+
+.PhotoCen1 {
+  float: right;
+  border-radius: 5%;
+  min-width: 200px;
+  max-width: 500px;
+  display:block;
+  margin: 0 0 10px 10px;
+}
+
+.PhotoCen2{
+  float:left;
+  border-radius: 5%;
+  min-width: 200px;
+  max-width: 500px;
+  display:block;
+  margin: 0 10px 10px 0;
+
+}
+
+.NXT{
+  text-align: center;
+  font-size: 20px;
+  margin-top:50px;
+  padding-bottom: 50px;
+}
+
+.NextPage{
+  color: inherit;
+  text-decoration: none;
+}
+
+
+
+.DenumTab{
+  font-size: 140%;
+}
+
+.Linkuri{
+  margin-bottom: 100px;
+}

@@ -1,0 +1,90 @@
+.Emblema{
+  float:left;
+  margin: 0 auto;
+}
+
+.TxtHome{
+  color: black;
+  text-decoration: none;
+  font-style: oblique;
+}
+
+.MenuElements{
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+
+.MenuElements li{
+  float:right;
+  display: block;
+  margin-right: 30px;
+  margin-top: 22px;
+  font-size: 125%
+}
+
+.MenuElements a{
+  text-decoration: none;
+  color: inherit;
+  font-weight: bold;
+  display: block;
+}
+
+header{
+   background-color: rgba(40, 166, 249, 0.38);
+  display: block;
+  min-height: 70px;
+  border-radius: 10px;
+}
+
+.ImgEmblema{
+  margin: 10px;
+  width: 50px;
+  height: 50px;
+}
+
+.Denumire{
+  font-weight: bold;
+  font-size: 200%;
+  padding-top: 16px;
+  float: left;
+}
+
+body{
+  background-image: url("../img/Cinderella2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.MenuElements a:hover{
+  font-size: 105%;
+}
+h1{
+  margin-top: 210px;
+  text-align: center;
+  font-size: 140px;
+  font-style: oblique;
+  color: rgba(16,82,93,0.66);
+  margin-bottom: 5px;
+}
+
+.Start{
+  text-decoration: none;
+  font-size: 45px;
+  color: rgba(25, 75, 93, 1);
+
+}
+
+.StartNow{
+  text-align: center;
+  margin: 0 auto;
+  
+}
+
+.StartNow a:hover{
+  background-color: rgba(156, 202, 228, 0.4);
+}
+
+.StartNow a{
+  background-color: rgba(120, 148, 165, 0.4);
+}
